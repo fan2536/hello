@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hello.iml" filepath="$PROJECT_DIR$/hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javaWeb1/javaWeb1.iml" filepath="$PROJECT_DIR$/../javaWeb1/javaWeb1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javaWeb2/javaWeb2.iml" filepath="$PROJECT_DIR$/../javaWeb2/javaWeb2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sshMaven/sshMaven.iml" filepath="$PROJECT_DIR$/../sshMaven/sshMaven.iml" />
+    </modules>
+  </component>
+</project>
